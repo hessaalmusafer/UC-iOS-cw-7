@@ -97,8 +97,9 @@ struct ContentView: View {
                         }
                     }
                 
-            }.navigationTitle("movies")
-        }
+            }.navigationTitle("Movies")
+                
+        }.accentColor(.white)
     }
 }
 
